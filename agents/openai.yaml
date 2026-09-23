@@ -1,0 +1,4 @@
+interface:
+  display_name: "ISCE2 + MintPy SBAS-InSAR"
+  short_description: "Run and validate ISCE2 + MintPy SBAS-InSAR"
+  default_prompt: "Use $isce2-mintpy-sbas-insar to plan, run, resume, validate, or export an ISCE2 + MintPy SBAS-InSAR project."
